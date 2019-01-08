@@ -1,2 +1,2 @@
-# melis-demo-site
+# Melis Demo CMS
 Melis Demo Site 
